@@ -1,0 +1,9 @@
+{
+  "original_sha256": "b8fc15f5f89e29c124f7fc672414fae8bed72fb39fee067767ecc41ef87c0838",
+  "reporter_fixed_sha256": "0465870848831aa0c37fe67bd14eb043d811c07af8a07f8f58fa66a36d42fba1",
+  "generated_sha256": "1f32955a12b02bdef6b9c24a218b39d2d78c760540f39b4ab87d2372f3d7322c",
+  "generated_theme_matches_reporter_bytes": true,
+  "unchanged_member_count": 9,
+  "semantic_equivalence": true,
+  "application_test": "not run"
+}
