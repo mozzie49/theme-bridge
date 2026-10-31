@@ -1,0 +1,78 @@
+{
+  "project": "ThemeBridge",
+  "version": "0.1.0",
+  "tests_passed": 24,
+  "application_rendering_tested": false,
+  "files": [
+    {
+      "path": ".github/workflows/test.yml",
+      "bytes": 552,
+      "sha256": "52d65575759176bb5c9648f3029f96bc04e9a6ce927092fd649c2ed2830adb3e"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 32,
+      "sha256": "12cf92d9ba71b43298cc572d6dd0c67b1561dea555035db0af1cc8ca261c079f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1081,
+      "sha256": "ce533c217663e71f5d81946a1c341ecde1bc166bac0b800b537b9b0b3f09a473"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5846,
+      "sha256": "c45991f4562bd2497869e1979cb4b60da4196627678fc04074c21c62c1dfa9f3"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 1495,
+      "sha256": "56b78fedbfbf5c2a8949e9ada89eeeee6dcea075ecbdc7a5f154b9d97a03a989"
+    },
+    {
+      "path": "docs/EVIDENCE.md",
+      "bytes": 2722,
+      "sha256": "90f971f9fc06e3cec12f758de410d44b1cd9c8ff933b286ea15d91de786e0ce2"
+    },
+    {
+      "path": "docs/external-validation.json",
+      "bytes": 423,
+      "sha256": "0d59a37ff036a98d26f34456e1a7aa513e6d68e6f0715831363dbc6db740146e"
+    },
+    {
+      "path": "examples/after.xml",
+      "bytes": 2103,
+      "sha256": "d066ffdc62bacea054715bde8966ed67f5793de111d102abc76a518ff7ba9431"
+    },
+    {
+      "path": "examples/before.xml",
+      "bytes": 1941,
+      "sha256": "19774bdf4c832308ec9919ae4f542931f7d42cd10273af093e7c4dad8a999d79"
+    },
+    {
+      "path": "examples/make_fixture.py",
+      "bytes": 4588,
+      "sha256": "eabc89c80fb1828325a2df8f6e62d8dab3c848f255118ef49f2f91cced628a51"
+    },
+    {
+      "path": "tests/test_security_review.py",
+      "bytes": 6110,
+      "sha256": "415a7774f6d5bd14c6cd9d8d8c0c82e6d9926e5458040fc51d42830eec4f5214"
+    },
+    {
+      "path": "tests/test_themebridge.py",
+      "bytes": 6949,
+      "sha256": "661eabee583051202af2ad7dfaa676f291a9ddcb969325a4c1730ad1ae4fde1c"
+    },
+    {
+      "path": "tests/verify_external.py",
+      "bytes": 1248,
+      "sha256": "37c5524401d80f065c9b7b9b2dffc969168a1f578b1412b32bdc3918390a0312"
+    },
+    {
+      "path": "themebridge.py",
+      "bytes": 15439,
+      "sha256": "adde4264901ea0a75f397fbb314b77a4ad830489d145dd10bee3053bd1df6d69"
+    }
+  ]
+}
